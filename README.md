@@ -32,7 +32,7 @@ its written under windows operating system in microsoft visual studio
 
 ## References
 
--[Cowgod's Chip-8 Technical Reference v1.0] (http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+- [Cowgod's Chip-8 Technical Reference v1.0] (http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 - These article helped me in understanding the chip8 architecture (https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 - (https://austinmorlan.com/posts/chip8_emulator/)
 
