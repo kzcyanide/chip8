@@ -25,6 +25,7 @@ its written under windows operating system in microsoft visual studio
 - you will find chip8.exe
 - To run any chip8 rom:
 - run chip8.exe "rom filename" in cmdline
+- example - chip8.exe Space Invaders.ch8
 
 ## Todo
 
